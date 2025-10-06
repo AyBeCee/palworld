@@ -1,0 +1,723 @@
+{
+    "Lamball": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Ascetic Falls",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Cattiva": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Chikipi": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Lifmunk": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Investigator's Fork",
+        "Forgotten Island"
+    ],
+    "Foxparks": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Frostbound Mountains",
+        "Ice Wind Island"
+    ],
+    "Foxparks Cryst": [
+        "Feybreak"
+    ],
+    "Fuack": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Ascetic Falls",
+        "Forgotten Island"
+    ],
+    "Sparkit": [
+        "Windswept Hills",
+        "Investigator's Fork"
+    ],
+    "Tanzee": [
+        "Windswept Hills",
+        "See Breeze Archipelago",
+        "Eastern Wild Island",
+        "Ice Wind Island"
+    ],
+    "Rooby": [
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Frostbound Mountains",
+        "Forgotten Island"
+    ],
+    "Pengullet": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island",
+        "No Man's Trail"
+    ],
+    "Penking": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Jolthog": [
+        "Windswept Hills"
+    ],
+    "Jolthog Cryst": [
+        ""
+    ],
+    "Gumoss": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Investigator's Fork",
+        "Forgotten Island"
+    ],
+    "Special Flower Gumoss": [
+        "Windswept Hills"
+    ],
+    "Vixy": [
+        "Windswept Hills"
+    ],
+    "Hoocrates": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Ascetic Falls",
+        "Investigator's Fork",
+        "Forgotten Island"
+    ],
+    "Teafant": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Depresso": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Ascetic Falls",
+        "Investigator's Fork",
+        "Forgotten Island"
+    ],
+    "Cremis": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Investigator's Fork",
+        "Forgotten Island"
+    ],
+    "Daedream": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Ice Wind Island"
+    ],
+    "Rushoar": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Nox": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Fuddler": [
+        "Investigator's Fork",
+        "Sand Dunes"
+    ],
+    "Killamari": [
+        "Dungeon"
+    ],
+    "Mau": [
+        "Dungeon"
+    ],
+    "Mau Cryst": [
+        "No Man's Trail",
+        "Land of Absolute Zero"
+    ],
+    "Celaray": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Investigator's Fork",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Direhowl": [
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Islands",
+        "Ascetic Falls",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Tocotoco": [
+        "Investigator's Fork",
+        "Sand Dunes"
+    ],
+    "Flopie": [
+        "Mount Flopie"
+    ],
+    "Mozzarina": [
+        "Ascetic Falls"
+    ],
+    "Bristla": [
+        "Mount Flopie"
+    ],
+    "Gobfin": [
+        "Mossanda Forest"
+    ],
+    "Gobfin Ignis": [
+        "Mount Obsidian"
+    ],
+    "Hangyu": [
+        "Investigator's Fork",
+        "Sand Dunes"
+    ],
+    "Hangyu Cryst": [
+        "No Man's Trail",
+        "Land of Absolute Zero"
+    ],
+    "Mossanda": [
+        "Mossanda Forest",
+        "Frostbound Mountains"
+    ],
+    "Mossanda Lux": [
+        "Eastern Wild Island",
+        "Mossanda Forest",
+        "Frostbound Mountains"
+    ],
+    "Woolipop": [
+        "Ascetic Falls"
+    ],
+    "Caprity": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Ice Wind Island",
+        "No Man's Trail"
+    ],
+    "Caprity Noct": [
+        "Feybreak"
+    ],
+    "Melpaca": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Ascetic Falls",
+        "Forgotten Island"
+    ],
+    "Eikthyrdeer": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Eikthyrdeer Terra": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Nitewing": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island",
+        "Sand Dunes"
+    ],
+    "Ribbuny": [
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Ascetic Falls",
+        "Ice Wind Island"
+    ],
+    "Ribbuny Botan": [
+        "Feybreak"
+    ],
+    "Incineram": [
+        "Mount Obsidian"
+    ],
+    "Incineram Noct": [
+        "No. 2 Wildlife Sanctuary",
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Cinnamoth": [
+        "Mount Flopie"
+    ],
+    "Arsox": [
+        "Frostbound Mountains"
+    ],
+    "Dumud": [
+        "Investigator's Fork",
+        "Mount Obsidian"
+    ],
+    "Cawgnito": [
+        "Ascetic Falls",
+        "Sand Dunes"
+    ],
+    "Leezpunk": [
+        "Mount Obsidian",
+        "Sand Dunes"
+    ],
+    "Leezpunk Ignis": [
+        "Frostbound Mountains",
+        "Mount Obsidian"
+    ],
+    "Loupmoon": [
+        "Mossanda Forest",
+        "Frostbound Mountains",
+        "Mount Flopie",
+        "Ascetic Falls",
+        "Investigator's Fork"
+    ],
+    "Loupmoon Cryst": [
+        "Feybreak"
+    ],
+    "Galeclaw": [
+        "Mount Flopie",
+        "Investigator's Fork"
+    ],
+    "Robinquill": [
+        "Mount Flopie"
+    ],
+    "Robinquill Terra": [
+        "Sand Dunes"
+    ],
+    "Gorirat": [
+        "Mossanda Forest",
+        "Frostbound Mountains"
+    ],
+    "Gorirat Terra": [
+        "Sakurajima: Desert Area"
+    ],
+    "Beegarde": [
+        "Mossanda Forest",
+        "Frostbound Mountains"
+    ],
+    "Elizabee": [
+        "Mossanda Forest",
+        "Frostbound Mountains"
+    ],
+    "Grintale": [
+        "Mossanda Forest",
+        "Frostbound Mountains",
+        "Mount Flopie"
+    ],
+    "Swee": [
+        "Sea Breeze Archipelago",
+        "Investigator's Fork"
+    ],
+    "Sweepa": [
+        "Frostbound Mountains",
+        "Investigator's Fork"
+    ],
+    "Chillet": [
+        "Investigator's Fork"
+    ],
+    "Chillet Ignis": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Univolt": [
+        ""
+    ],
+    "Foxcicle": [
+        "Frostbound Mountains"
+    ],
+    "Pyrin": [
+        "Mount Obsidian"
+    ],
+    "Pyrin Noct": [
+        "Mount Obsidian"
+    ],
+    "Reindrix": [
+        "Frostbound Mountains",
+        "No Man's Trail"
+    ],
+    "Rayhound": [
+        "Sand Dunes"
+    ],
+    "Kitsun": [
+        "Frostbound Mountains"
+    ],
+    "Kitsun Noct": [
+        "Breeding"
+    ],
+    "Dazzi": [
+        "Sand Dunes"
+    ],
+    "Dazzi Noct": [
+        "Feybreak"
+    ],
+    "Lunaris": [
+        "Within the Realm of the Esoteric"
+    ],
+    "Dinossom": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Eastern Wild Island",
+        "Ice Wind Island"
+    ],
+    "Dinossom Lux": [
+        "Sand Dunes"
+    ],
+    "Surfent": [
+        "Ascetic Falls",
+        "Investigator's Fork"
+    ],
+    "Surfent Terra": [
+        "Sand Dunes"
+    ],
+    "Maraith": [
+        "Land of Absolute Zero"
+    ],
+    "Digtoise": [
+        "Investigator's Fork",
+        "Sand Dunes"
+    ],
+    "Tombat": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Eastern Wild Island",
+        "Forgotten Island",
+        "Ice Wind Island"
+    ],
+    "Lovander": [
+        "Investigator's Fork",
+        "Sand Dunes"
+    ],
+    "Flambelle": [
+        "Frostbound Mountains",
+        "Mount Obsidian"
+    ],
+    "Vanwyrm": [
+        "Mount Obsidian",
+        "Ascetic Falls"
+    ],
+    "Vanwyrm Cryst": [
+        "No Man's Trail",
+        "Land of Absolute Zero"
+    ],
+    "Bushi": [
+        "Mount Obsidian"
+    ],
+    "Bushi Noct": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Beakon": [
+        "Sand Dunes"
+    ],
+    "Ragnahawk": [
+        "Mount Obsidian"
+    ],
+    "Katress": [
+        "Mossanda Forest",
+        "Frostbound Mountains",
+        "Mount Flopie"
+    ],
+    "Katress Ignis": [
+        "Dungeon"
+    ],
+    "Wixen": [
+        "Frostbound Mountains"
+    ],
+    "Wixen Noct": [
+        "Sakurajima: Rocky and Desert Area"
+    ],
+    "Verdash": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Vaelet": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Sibelyx": [
+        "Land of Absolute Zero"
+    ],
+    "Elphidran": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Elphidran Aqua": [
+        "Breeding"
+    ],
+    "Kelpsea": [
+        "Investigator's Fork"
+    ],
+    "Kelpsea Ignis": [
+        "Frostbound Mountains",
+        "Mount Obsidian"
+    ],
+    "Azurobe": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Cryolinx": [
+        "Land of Absolute Zero"
+    ],
+    "Cryolinx Terra": [
+        "Feybreak"
+    ],
+    "Blazehowl": [
+        "Mount Obsidian"
+    ],
+    "Blazehowl Noct": [
+        "Mount Obsidian"
+    ],
+    "Relaxaurus": [
+        "Ascetic Falls"
+    ],
+    "Relaxaurus Lux": [
+        "Within the Sealed Realm of the Thunder Dragon"
+    ],
+    "Broncherry": [
+        "Ascetic Falls",
+        "Investigator's Fork"
+    ],
+    "Broncherry Aqua": [
+        "Within the Shoal Mineshaft"
+    ],
+    "Petallia": [
+        "No.1 Wildlife Sanctuary"
+    ],
+    "Reptyro": [
+        "Mount Obsidian"
+    ],
+    "Reptyro Cryst": [
+        "Breeding"
+    ],
+    "Kingpaca": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Kingpaca Cryst": [
+        "Within the Forgotten Mineshaft"
+    ],
+    "Mammorest": [
+        "Windswept Hills",
+        "Sea Breeze Archipelago",
+        "Marsh Island",
+        "Investigator's Fork",
+        "Forgotten Island",
+        "No Man's Trail"
+    ],
+    "Mammorest Cryst": [
+        "Land of Absolute Zero"
+    ],
+    "Wumpo": [
+        "Land of Absolute Zero"
+    ],
+    "Wumpo Botan": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Warsect": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Warsect Terra": [
+        "Feybreak"
+    ],
+    "Fenglope": [
+        "Mount Obsidian",
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Fenglope Lux": [
+        "Breeding"
+    ],
+    "Felbat": [
+        "Forgotten Island"
+    ],
+    "Quivern": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Quivern Botan": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Blazamut": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Helzephyr": [
+        "Mossanda Forest",
+        "Frostbound Mountains",
+        "Mount Flopie"
+    ],
+    "Helzephyr Lux": [
+        "Sakurajima: Rocky Area"
+    ],
+    "Astegon": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Menasting": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Menasting Terra": [
+        "Sakurajima: Rocky Area"
+    ],
+    "Anubis": [
+        "Investigator's Fork"
+    ],
+    "Jormuntide": [
+        "Investigator's Fork",
+        "Mossanda Forest"
+    ],
+    "Jormuntide Ignis": [
+        "No. 2 Wildlife Sanctuary"
+    ],
+    "Suzaku": [
+        "Sand Dunes"
+    ],
+    "Suzaku Aqua": [
+        "Breeding"
+    ],
+    "Grizzbolt": [
+        "No. 1 Wildlife Sanctuary"
+    ],
+    "Lyleen": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Lyleen Noct": [
+        "Within the Iceberg Mineshaft"
+    ],
+    "Faleris": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Faleris Aqua": [
+        "Feybreak"
+    ],
+    "Orserk": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Shadowbeak": [
+        "No. 3 Wildlife Sanctuary"
+    ],
+    "Paladius": [
+        "Sand Dunes"
+    ],
+    "Necromus": [
+        "Sand Dunes"
+    ],
+    "Frostallion": [
+        "Land of Absolute Zero"
+    ],
+    "Frostallion Noct": [
+        "Breeding"
+    ],
+    "Jetragon": [
+        "Beach of Everlasting Summer"
+    ],
+    "Bellanoir": [
+        ""
+    ],
+    "Bellanoir Libero": [
+        ""
+    ],
+    "Selyne": [
+        ""
+    ],
+    "Lullu": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Shroomer": [
+        "Sakurajima: Mushroom Wetland"
+    ],
+    "Shroomer Noct": [
+        "Sakurajima: Mushroom Wetland"
+    ],
+    "Kikit": [
+        "Sakurajima: Rocky and Desert Area"
+    ],
+    "Sootseer": [
+        "Sakurajima: Cemetery"
+    ],
+    "Prixter": [
+        "Sakurajima: Rocky Area"
+    ],
+    "Knocklem": [
+        "Sakurajima: Waterfall Area"
+    ],
+    "Yakumo": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Dogen": [
+        "Sakurajima: Cherry Blossom Forest"
+    ],
+    "Dazemu": [
+        "Sakurajima: Desert Area"
+    ],
+    "Mimog": [
+        ""
+    ],
+    "Xenovader": [
+        ""
+    ],
+    "Xenogard": [
+        ""
+    ],
+    "Xenolord": [
+        ""
+    ],
+    "Nitemary": [
+        "Feybreak"
+    ],
+    "Starryon": [
+        "Feybreak"
+    ],
+    "Silvegis": [
+        ""
+    ],
+    "Smokie": [
+        "Feybreak"
+    ],
+    "Celesdir": [
+        "Feybreak"
+    ],
+    "Omascul": [
+        "Feybreak"
+    ],
+    "Splatterina": [
+        "Feybreak"
+    ],
+    "Tarantriss": [
+        "Feybreak"
+    ],
+    "Azurmane": [
+        "Feybreak"
+    ],
+    "Bastigor": [
+        "Breeding"
+    ],
+    "Prunelia": [
+        "Feybreak"
+    ],
+    "Nyafia": [
+        "Feybreak"
+    ],
+    "Gildane": [
+        "Feybreak"
+    ]
+}
