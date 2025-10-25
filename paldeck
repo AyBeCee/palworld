@@ -4,54 +4,87 @@
         "lvl": "10",
         "spawn": [
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "4",
+            "Mining": "3",
+            "Transporting": "2"
+        }
     },
     "Arsox": {
         "img": "https://i.ibb.co/LzfK1k5t/T-Flame-Buffalo-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1",
+            "Kindling": "2"
+        }
     },
     "Astegon": {
         "img": "https://i.ibb.co/YTftMCVm/T-Black-Metal-Dragon-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Mining": "4"
+        }
     },
     "Azurmane": {
         "img": "https://i.ibb.co/Cs0NV9yW/T-Blue-Thunder-Horse-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Generating Electricity": "4"
+        }
     },
     "Azurobe": {
         "img": "https://i.ibb.co/bjhskKch/T-Blue-Dragon-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Watering": "3"
+        }
     },
     "Azurobe Cryst": {
         "img": "https://i.ibb.co/QvxpdjS0/T-Blue-Dragon-Ice-icon-normal.png",
         "lvl": "8",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "3"
+        }
     },
     "Bastigor": {
         "img": "https://i.ibb.co/m5j8Gw3g/T-Snow-Tiger-Beastman-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Cooling": "4",
+            "Deforesting": "3",
+            "Mining": "3"
+        }
     },
     "Beakon": {
         "img": "https://i.ibb.co/9HVdxgDz/T-Thunder-Bird-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Generating Electricity": "2",
+            "Transporting": "3"
+        }
     },
     "Beegarde": {
         "img": "https://i.ibb.co/xqv67M2W/T-Soldier-Bee-icon-normal.png",
@@ -59,59 +92,111 @@
         "spawn": [
             "Mossanda Forest",
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "1",
+            "Handiwork": "1",
+            "Farming": "1",
+            "Medicine Production": "1",
+            "Planting": "1",
+            "Transporting": "2"
+        }
     },
     "Bellanoir": {
         "img": "https://i.ibb.co/1H48k84/T-Night-Lady-icon-normal.png",
         "lvl": "20",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2",
+            "Medicine Production": "4",
+            "Transporting": "2"
+        }
     },
     "Bellanoir Libero": {
         "img": "https://i.ibb.co/CKqX7g8s/T-Night-Lady-Dark-icon-normal.png",
         "lvl": "20",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2",
+            "Medicine Production": "4",
+            "Transporting": "2"
+        }
     },
     "Blazamut": {
         "img": "https://i.ibb.co/KZDR6HL/T-King-Bahamut-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Kindling": "3",
+            "Mining": "4"
+        }
     },
     "Blazamut Ryu": {
         "img": "https://i.ibb.co/CpSHmyX7/T-King-Bahamut-Dragon-icon-normal.png",
         "lvl": "10",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Kindling": "4",
+            "Mining": "4"
+        }
     },
     "Blazehowl": {
         "img": "https://i.ibb.co/nMmxktTv/T-Manticore-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Kindling": "3"
+        }
     },
     "Blazehowl Noct": {
         "img": "https://i.ibb.co/tTsxj5WJ/T-Manticore-Dark-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Kindling": "3"
+        }
+    },
+    "Blue Slime": {
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Braloha": {
         "img": "https://i.ibb.co/tTrhh6t7/T-Plesiosaur-icon-normal.png",
         "lvl": "6",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "4",
+            "Mining": "2",
+            "Planting": "4"
+        }
     },
     "Bristla": {
         "img": "https://i.ibb.co/6RB2cfc8/T-Little-Briar-Rose-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Medicine Production": "2",
+            "Planting": "1",
+            "Transporting": "1"
+        }
     },
     "Broncherry": {
         "img": "https://i.ibb.co/hxTTHCxD/T-Sakura-Saurus-icon-normal.png",
@@ -119,28 +204,48 @@
         "spawn": [
             "Ascetic Falls",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Planting": "3"
+        }
     },
     "Broncherry Aqua": {
         "img": "https://i.ibb.co/3mNSgm3N/T-Sakura-Saurus-Water-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Within the Shoal Mineshaft"
-        ]
+        ],
+        "skill": {
+            "Watering": "3"
+        }
     },
     "Bushi": {
         "img": "https://i.ibb.co/3y7YwgDR/T-Ronin-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "3",
+            "Kindling": "2",
+            "Handiwork": "1",
+            "Transporting": "2"
+        }
     },
     "Bushi Noct": {
         "img": "https://i.ibb.co/9mK8SL7P/T-Ronin-Dark-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "3",
+            "Kindling": "2",
+            "Handiwork": "1",
+            "Transporting": "2"
+        }
     },
     "Caprity": {
         "img": "https://i.ibb.co/SXjjwKDY/T-Berry-Goat-icon-normal.png",
@@ -151,14 +256,22 @@
             "Eastern Wild Island",
             "Ice Wind Island",
             "No Man's Trail"
-        ]
+        ],
+        "skill": {
+            "Farming": "1",
+            "Planting": "2"
+        }
     },
     "Caprity Noct": {
         "img": "https://i.ibb.co/wN7MdRqZ/T-Berry-Goat-Dark-icon-normal.png",
         "lvl": "3",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Farming": "1",
+            "Planting": "2"
+        }
     },
     "Cattiva": {
         "img": "https://i.ibb.co/fdVkPVPT/T-Pink-Cat-icon-normal.png",
@@ -170,12 +283,21 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Mining": "1",
+            "Transporting": "1"
+        }
     },
     "Cave Bat": {
         "img": "https://i.ibb.co/ZzrfyqhC/T-Yakushima-Monster003-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Cawgnito": {
         "img": "https://i.ibb.co/6ccYcMYS/T-Dark-Crow-icon-normal.png",
@@ -183,7 +305,10 @@
         "spawn": [
             "Ascetic Falls",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1"
+        }
     },
     "Celaray": {
         "img": "https://i.ibb.co/fdqHCXs3/T-Flying-Manta-icon-normal.png",
@@ -196,19 +321,32 @@
             "Investigator's Fork",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Celaray Lux": {
         "img": "https://i.ibb.co/k6qmvh0N/T-Flying-Manta-Thunder-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Generating Electricity": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Celesdir": {
         "img": "https://i.ibb.co/WWx7qfpg/T-White-Deer-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "4"
+        }
     },
     "Chikipi": {
         "img": "https://i.ibb.co/zHWG9Yzb/T-Chicken-Pal-icon-normal.png",
@@ -220,28 +358,44 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Farming": "1"
+        }
     },
     "Chillet": {
         "img": "https://i.ibb.co/W40xnvsf/T-Weasel-Dragon-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Cooling": "1"
+        }
     },
     "Chillet Ignis": {
         "img": "https://i.ibb.co/VY0xWmJW/T-Weasel-Dragon-Fire-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Kindling": "2"
+        }
     },
     "Cinnamoth": {
         "img": "https://i.ibb.co/s9grYWY9/T-Cute-Butterfly-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Medicine Production": "1",
+            "Planting": "2"
+        }
     },
     "Cremis": {
         "img": "https://i.ibb.co/GQK1tQ6R/T-Wool-Fox-icon-normal.png",
@@ -252,31 +406,59 @@
             "Marsh Island",
             "Investigator's Fork",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Farming": "1"
+        }
     },
     "Croajiro": {
         "img": "https://i.ibb.co/FbNHs84J/T-Kendo-Frog-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Croajiro Noct": {
         "img": "https://i.ibb.co/6RfytCL1/T-Kendo-Frog-Dark-icon-normal.png",
         "lvl": "5",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Cryolinx": {
         "img": "https://i.ibb.co/yFdWBMn9/T-White-Tiger-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "3",
+            "Deforesting": "2",
+            "Handiwork": "1",
+            "Transporting": "3"
+        }
     },
     "Cryolinx Terra": {
         "img": "https://i.ibb.co/spRb8c5c/T-White-Tiger-Ground-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Handiwork": "1",
+            "Mining": "3",
+            "Transporting": "3"
+        }
     },
     "Daedream": {
         "img": "https://i.ibb.co/20LsjzV1/T-Dream-Demon-icon-normal.png",
@@ -286,28 +468,52 @@
             "Sea Breeze Archipelago",
             "Eastern Wild Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Dazemu": {
         "img": "https://i.ibb.co/XZBpvpFn/T-Feather-Ostrich-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sakurajima: Desert Area"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Dazzi": {
         "img": "https://i.ibb.co/ZpWs7L9S/T-Raijin-Daughter-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Dazzi Noct": {
         "img": "https://i.ibb.co/k2rtG04P/T-Raijin-Daughter-Water-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "1",
+            "Handiwork": "1",
+            "Medicine Production": "1",
+            "Transporting": "1"
+        }
+    },
+    "Demon Eye": {
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Depresso": {
         "img": "https://i.ibb.co/whmhT2r2/T-Negative-Koala-icon-normal.png",
@@ -319,7 +525,12 @@
             "Ascetic Falls",
             "Investigator's Fork",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Mining": "1",
+            "Transporting": "1"
+        }
     },
     "Digtoise": {
         "img": "https://i.ibb.co/dJMWsQ8w/T-Drill-Game-icon-normal.png",
@@ -327,7 +538,10 @@
         "spawn": [
             "Investigator's Fork",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Mining": "3"
+        }
     },
     "Dinossom": {
         "img": "https://i.ibb.co/ym6tQMbv/T-Flower-Dinosaur-icon-normal.png",
@@ -337,14 +551,22 @@
             "Sea Breeze Archipelago",
             "Eastern Wild Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Planting": "2"
+        }
     },
     "Dinossom Lux": {
         "img": "https://i.ibb.co/yBZwp2tY/T-Flower-Dinosaur-Electric-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Generating Electricity": "2"
+        }
     },
     "Direhowl": {
         "img": "https://i.ibb.co/Z6z3dF0J/T-Garm-icon-normal.png",
@@ -356,14 +578,24 @@
             "Ascetic Falls",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Dogen": {
         "img": "https://i.ibb.co/zTSZcp1v/T-Sifu-Dog-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "2",
+            "Handiwork": "3",
+            "Medicine Production": "1",
+            "Transporting": "2"
+        }
     },
     "Dumud": {
         "img": "https://i.ibb.co/gFBRDpfs/T-Lazy-Catfish-icon-normal.png",
@@ -371,12 +603,24 @@
         "spawn": [
             "Investigator's Fork",
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Mining": "2",
+            "Farming": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Dumud Gild": {
         "img": "https://i.ibb.co/kVbxCXfY/T-Lazy-Catfish-Gold-icon-normal.png",
         "lvl": "5",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Mining": "2",
+            "Farming": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Eikthyrdeer": {
         "img": "https://i.ibb.co/Lzj9TTJs/T-Deer-icon-normal.png",
@@ -388,14 +632,20 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2"
+        }
     },
     "Eikthyrdeer Terra": {
         "img": "https://i.ibb.co/HLcJPxQm/T-Deer-Ground-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2"
+        }
     },
     "Elizabee": {
         "img": "https://i.ibb.co/SD7SWtj5/T-Queen-Bee-icon-normal.png",
@@ -403,47 +653,80 @@
         "spawn": [
             "Mossanda Forest",
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "1",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Planting": "2"
+        }
     },
     "Elphidran": {
         "img": "https://i.ibb.co/wFp9n0Jx/T-Fairy-Dragon-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2"
+        }
     },
     "Elphidran Aqua": {
         "img": "https://i.ibb.co/RG4MKVR4/T-Fairy-Dragon-Water-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Watering": "3"
+        }
+    },
+    "Enchanted Sword": {
+        "skill": {
+            "Deforesting": "1"
+        }
     },
     "Eye of Cthulhu": {
         "img": "https://i.ibb.co/QvPmFwKj/T-Yakushima-Boss001-icon-normal.png",
         "lvl": "6",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "4"
+        }
     },
     "Faleris": {
         "img": "https://i.ibb.co/zhB7RGxC/T-Horus-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Kindling": "3",
+            "Transporting": "3"
+        }
     },
     "Faleris Aqua": {
         "img": "https://i.ibb.co/ch4x2MBc/T-Horus-Water-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Transporting": "3",
+            "Watering": "4"
+        }
     },
     "Felbat": {
         "img": "https://i.ibb.co/KzXW2XvR/T-Cat-Vampire-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Medicine Production": "3"
+        }
     },
     "Fenglope": {
         "img": "https://i.ibb.co/vxLLhkGp/T-Fengyun-Deeper-icon-normal.png",
@@ -451,24 +734,40 @@
         "spawn": [
             "Mount Obsidian",
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2"
+        }
     },
     "Fenglope Lux": {
         "img": "",
         "lvl": "3",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Generating Electricity": "2"
+        }
     },
     "Finsider": {
         "img": "https://i.ibb.co/wNWJR0nX/T-Stuffed-Shark-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Finsider Ignis": {
         "img": "https://i.ibb.co/FqkxgLPG/T-Stuffed-Shark-Fire-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Kindling": "2",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Flambelle": {
         "img": "https://i.ibb.co/svWMKQ29/T-Lava-Girl-icon-normal.png",
@@ -476,21 +775,37 @@
         "spawn": [
             "Frostbound Mountains",
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1",
+            "Handiwork": "1",
+            "Farming": "1",
+            "Transporting": "1"
+        }
     },
     "Flopie": {
         "img": "https://i.ibb.co/xq35xJyw/T-Flower-Rabbit-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Medicine Production": "1",
+            "Planting": "1",
+            "Transporting": "1"
+        }
     },
     "Foxcicle": {
         "img": "https://i.ibb.co/vC2CXgQT/T-Ice-Fox-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2"
+        }
     },
     "Foxparks": {
         "img": "https://i.ibb.co/8D6v5kky/T-Kitsunebi-icon-normal.png",
@@ -501,33 +816,49 @@
             "Eastern Wild Island",
             "Frostbound Mountains",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1"
+        }
     },
     "Foxparks Cryst": {
         "img": "https://i.ibb.co/yB4cJ3Yj/T-Kitsunebi-Ice-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Cooling": "1"
+        }
     },
     "Frostallion": {
         "img": "https://i.ibb.co/qL5wdPTL/T-Ice-Horse-icon-normal.png",
         "lvl": "20",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "4"
+        }
     },
     "Frostallion Noct": {
         "img": "https://i.ibb.co/9Hk0rMG5/T-Ice-Horse-Dark-icon-normal.png",
         "lvl": "20",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Gathering": "4"
+        }
     },
     "Frostplume": {
         "img": "https://i.ibb.co/pcqW68R/T-Snow-Peafowl-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1",
+            "Cooling": "2"
+        }
     },
     "Fuack": {
         "img": "https://i.ibb.co/p6X6QVtF/T-Blue-Platypus-icon-normal.png",
@@ -538,12 +869,23 @@
             "Marsh Island",
             "Ascetic Falls",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Fuack Ignis": {
         "img": "https://i.ibb.co/3wfXHtP/T-Blue-Platypus-Fire-icon-normal.png",
         "lvl": "2",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Kindling": "1",
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Fuddler": {
         "img": "https://i.ibb.co/gbkTq6w9/T-Cute-Mole-icon-normal.png",
@@ -551,7 +893,12 @@
         "spawn": [
             "Investigator's Fork",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Mining": "1",
+            "Transporting": "1"
+        }
     },
     "Galeclaw": {
         "img": "https://i.ibb.co/mr3FKZ98/T-Eagle-icon-normal.png",
@@ -559,43 +906,73 @@
         "spawn": [
             "Mount Flopie",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Ghangler": {
         "img": "https://i.ibb.co/Lhptv7VY/T-Ghost-Anglerfish-icon-normal.png",
         "lvl": "5",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "2",
+            "Watering": "4"
+        }
     },
     "Ghangler Ignis": {
         "img": "https://i.ibb.co/GvXPSZZ4/T-Ghost-Anglerfish-Fire-icon-normal.png",
         "lvl": "6",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Kindling": "3",
+            "Transporting": "2",
+            "Watering": "4"
+        }
     },
     "Gildane": {
         "img": "https://i.ibb.co/MynmyxF1/T-Golden-Horse-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Gloopie": {
         "img": "https://i.ibb.co/Z17HZZ4p/T-Octopus-Girl-icon-normal.png",
         "lvl": "5",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Handiwork": "2",
+            "Transporting": "2",
+            "Watering": "2"
+        }
     },
     "Gobfin": {
         "img": "https://i.ibb.co/HLNWJ2wP/T-Shark-Kid-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Mossanda Forest"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Gobfin Ignis": {
         "img": "https://i.ibb.co/fG0hWFgC/T-Shark-Kid-Fire-icon-normal.png",
         "lvl": "3",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Gorirat": {
         "img": "https://i.ibb.co/MWrjqf5/T-Gorilla-icon-normal.png",
@@ -603,19 +980,32 @@
         "spawn": [
             "Mossanda Forest",
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Handiwork": "1",
+            "Transporting": "3"
+        }
     },
     "Gorirat Terra": {
         "img": "https://i.ibb.co/nN8V1V5J/T-Gorilla-Ground-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sakurajima: Desert Area"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Mining": "2",
+            "Transporting": "3"
+        }
     },
     "Green Slime": {
         "img": "",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Grintale": {
         "img": "https://i.ibb.co/PZZgXzKm/T-Naughty-Cat-icon-normal.png",
@@ -624,14 +1014,23 @@
             "Mossanda Forest",
             "Frostbound Mountains",
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Grizzbolt": {
         "img": "https://i.ibb.co/xq8SHVQb/T-Elec-Panda-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Generating Electricity": "3",
+            "Handiwork": "2",
+            "Transporting": "3"
+        }
     },
     "Gumoss": {
         "img": "https://i.ibb.co/hxLrF0KQ/T-Plant-Slime-icon-normal.png",
@@ -642,7 +1041,10 @@
             "Marsh Island",
             "Investigator's Fork",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Planting": "1"
+        }
     },
     "Hangyu": {
         "img": "https://i.ibb.co/8nMfMRSq/T-Wind-Chimes-icon-normal.png",
@@ -650,7 +1052,12 @@
         "spawn": [
             "Investigator's Fork",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "2"
+        }
     },
     "Hangyu Cryst": {
         "img": "https://i.ibb.co/5WdXd85p/T-Wind-Chimes-Ice-icon-normal.png",
@@ -658,7 +1065,13 @@
         "spawn": [
             "No Man's Trail",
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Cooling": "1",
+            "Handiwork": "1",
+            "Transporting": "2"
+        }
     },
     "Helzephyr": {
         "img": "https://i.ibb.co/G4NJTmH1/T-Hades-Bird-icon-normal.png",
@@ -667,19 +1080,31 @@
             "Mossanda Forest",
             "Frostbound Mountains",
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Transporting": "3"
+        }
     },
     "Helzephyr Lux": {
         "img": "https://i.ibb.co/vvHdynR4/T-Hades-Bird-Electric-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Sakurajima: Rocky Area"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "3",
+            "Transporting": "3"
+        }
     },
     "Herbil": {
         "img": "https://i.ibb.co/JR2qJJsv/T-Leaf-Momonga-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1",
+            "Planting": "2",
+            "Transporting": "1"
+        }
     },
     "Hoocrates": {
         "img": "https://i.ibb.co/8gRhJCwD/T-Wizard-Owl-icon-normal.png",
@@ -691,29 +1116,50 @@
             "Ascetic Falls",
             "Investigator's Fork",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Icelyn": {
         "img": "https://i.ibb.co/twQDV7T0/T-Ice-Witch-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "3",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Transporting": "1"
+        }
     },
     "Illuminant Bat": {
         "img": "https://i.ibb.co/mrZbC0hq/T-Yakushima-Monster003-Purple-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Illuminant Slime": {
         "img": "",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Incineram": {
         "img": "https://i.ibb.co/zhVJK12t/T-Baphomet-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1",
+            "Handiwork": "2",
+            "Mining": "1",
+            "Transporting": "2"
+        }
     },
     "Incineram Noct": {
         "img": "https://i.ibb.co/HDvJyfY5/T-Baphomet-Dark-icon-normal.png",
@@ -721,38 +1167,63 @@
         "spawn": [
             "No. 2 Wildlife Sanctuary",
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2",
+            "Mining": "1",
+            "Transporting": "2"
+        }
     },
     "Jelliette": {
         "img": "https://i.ibb.co/21S85Fbc/T-Jellyfish-Fairy-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Jellroy": {
         "img": "https://i.ibb.co/k2pfj3vn/T-Jellyfish-Ghost-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Handiwork": "1",
+            "Medicine Production": "1",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Jetragon": {
         "img": "https://i.ibb.co/x8LG2WCy/T-Jet-Dragon-icon-normal.png",
         "lvl": "20",
         "spawn": [
             "Beach of Everlasting Summer"
-        ]
+        ],
+        "skill": {
+            "Gathering": "3"
+        }
     },
     "Jolthog": {
         "img": "https://i.ibb.co/LdGWjGvf/T-Hedgehog-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Windswept Hills"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "1"
+        }
     },
     "Jolthog Cryst": {
         "img": "https://i.ibb.co/fd7JwkBK/T-Hedgehog-Ice-icon-normal.png",
         "lvl": "2",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Cooling": "1"
+        }
     },
     "Jormuntide": {
         "img": "https://i.ibb.co/BVgDL9ZP/T-Umihebi-icon-normal.png",
@@ -760,14 +1231,20 @@
         "spawn": [
             "Investigator's Fork",
             "Mossanda Forest"
-        ]
+        ],
+        "skill": {
+            "Watering": "4"
+        }
     },
     "Jormuntide Ignis": {
         "img": "https://i.ibb.co/XZwf9rfz/T-Umihebi-Fire-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Kindling": "4"
+        }
     },
     "Katress": {
         "img": "https://i.ibb.co/tpHYP2BS/T-Cat-Mage-icon-normal.png",
@@ -776,21 +1253,36 @@
             "Mossanda Forest",
             "Frostbound Mountains",
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Transporting": "2"
+        }
     },
     "Katress Ignis": {
         "img": "https://i.ibb.co/TxKB12Q4/T-Cat-Mage-Fire-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Dungeon"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Transporting": "2"
+        }
     },
     "Kelpsea": {
         "img": "https://i.ibb.co/bRgvk5zY/T-Kelpie-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Farming": "1",
+            "Watering": "1"
+        }
     },
     "Kelpsea Ignis": {
         "img": "https://i.ibb.co/8nX2YtfG/T-Kelpie-Fire-icon-normal.png",
@@ -798,61 +1290,96 @@
         "spawn": [
             "Frostbound Mountains",
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1",
+            "Farming": "1"
+        }
     },
     "Kikit": {
         "img": "https://i.ibb.co/HL2bJ5Wz/T-Small-Armadillo-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Sakurajima: Rocky and Desert Area"
-        ]
+        ],
+        "skill": {
+            "Mining": "1"
+        }
     },
     "Killamari": {
         "img": "https://i.ibb.co/sJpZK1kp/T-Negative-Octopus-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Dungeon"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Transporting": "2",
+            "Watering": "1"
+        }
     },
     "Killamari Primo": {
         "img": "https://i.ibb.co/hJsS0fLw/T-Negative-Octopus-Neutral-icon-normal.png",
         "lvl": "2",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1",
+            "Transporting": "2",
+            "Watering": "1"
+        }
     },
     "Kingpaca": {
         "img": "https://i.ibb.co/XkyhHn6M/T-King-Alpaca-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Kingpaca Cryst": {
         "img": "https://i.ibb.co/1tG3L6tn/T-King-Alpaca-Ice-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Within the Forgotten Mineshaft"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Cooling": "3"
+        }
     },
     "Kitsun": {
         "img": "https://i.ibb.co/TC4HZq9/T-Amaterasu-Wolf-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2"
+        }
     },
     "Kitsun Noct": {
         "img": "https://i.ibb.co/230s9Bkm/T-Amaterasu-Wolf-Dark-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2"
+        }
     },
     "Knocklem": {
         "img": "https://i.ibb.co/rKFPpdrs/T-Wing-Golem-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Sakurajima: Waterfall Area"
-        ]
+        ],
+        "skill": {
+            "Gathering": "3",
+            "Mining": "4",
+            "Transporting": "4"
+        }
     },
     "Lamball": {
         "img": "https://i.ibb.co/Fk83cgyY/T-Sheep-Ball-icon-normal.png",
@@ -865,7 +1392,12 @@
             "Ascetic Falls",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Farming": "1",
+            "Transporting": "1"
+        }
     },
     "Leezpunk": {
         "img": "https://i.ibb.co/zTZxv8V8/T-Lizard-Man-icon-normal.png",
@@ -873,7 +1405,12 @@
         "spawn": [
             "Mount Obsidian",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Leezpunk Ignis": {
         "img": "https://i.ibb.co/hxdQHtgh/T-Lizard-Man-Fire-icon-normal.png",
@@ -881,7 +1418,13 @@
         "spawn": [
             "Frostbound Mountains",
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Kindling": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Lifmunk": {
         "img": "https://i.ibb.co/q3RC99wP/T-Carbunclo-icon-normal.png",
@@ -893,7 +1436,14 @@
             "Eastern Wild Island",
             "Investigator's Fork",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "1",
+            "Handiwork": "1",
+            "Medicine Production": "1",
+            "Planting": "1"
+        }
     },
     "Loupmoon": {
         "img": "https://i.ibb.co/yFD9Gz9L/T-Werewolf-icon-normal.png",
@@ -904,14 +1454,21 @@
             "Mount Flopie",
             "Ascetic Falls",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2"
+        }
     },
     "Loupmoon Cryst": {
         "img": "https://i.ibb.co/FkBqx5r5/T-Werewolf-Ice-icon-normal.png",
         "lvl": "3",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Cooling": "3",
+            "Handiwork": "2"
+        }
     },
     "Lovander": {
         "img": "https://i.ibb.co/svXfYNNc/T-Pink-Lizard-icon-normal.png",
@@ -919,35 +1476,63 @@
         "spawn": [
             "Investigator's Fork",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "2",
+            "Mining": "1",
+            "Medicine Production": "2",
+            "Transporting": "2"
+        }
     },
     "Lullu": {
         "img": "https://i.ibb.co/HDLNYRwv/T-Leaf-Princess-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Planting": "2"
+        }
     },
     "Lunaris": {
         "img": "https://i.ibb.co/S4Z9yzRP/T-Mutant-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Within the Realm of the Esoteric"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "3",
+            "Transporting": "1"
+        }
     },
     "Lyleen": {
         "img": "https://i.ibb.co/ynpD3TJs/T-Lily-Queen-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "3",
+            "Medicine Production": "3",
+            "Planting": "4"
+        }
     },
     "Lyleen Noct": {
         "img": "https://i.ibb.co/hFVpg5yD/T-Lily-Queen-Dark-icon-normal.png",
         "lvl": "10",
         "spawn": [
             "Within the Iceberg Mineshaft"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "3",
+            "Medicine Production": "3"
+        }
     },
     "Mammorest": {
         "img": "https://i.ibb.co/vCgDDvsW/T-Grass-Mammoth-icon-normal.png",
@@ -959,28 +1544,45 @@
             "Investigator's Fork",
             "Forgotten Island",
             "No Man's Trail"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Mining": "2",
+            "Planting": "2"
+        }
     },
     "Mammorest Cryst": {
         "img": "https://i.ibb.co/YBn33CVv/T-Grass-Mammoth-Ice-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Deforesting": "2",
+            "Mining": "2"
+        }
     },
     "Maraith": {
         "img": "https://i.ibb.co/WNhzcgMG/T-Ghost-Beast-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Mining": "1"
+        }
     },
     "Mau": {
         "img": "https://i.ibb.co/84Pz4DZ5/T-Bastet-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Dungeon"
-        ]
+        ],
+        "skill": {
+            "Farming": "1"
+        }
     },
     "Mau Cryst": {
         "img": "https://i.ibb.co/Q3dNDBfz/T-Bastet-Ice-icon-normal.png",
@@ -988,7 +1590,11 @@
         "spawn": [
             "No Man's Trail",
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "1",
+            "Farming": "1"
+        }
     },
     "Melpaca": {
         "img": "https://i.ibb.co/FLXwvwHr/T-Alpaca-icon-normal.png",
@@ -999,28 +1605,43 @@
             "Marsh Island",
             "Ascetic Falls",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Farming": "1"
+        }
     },
     "Menasting": {
         "img": "https://i.ibb.co/zVTYK7rS/T-Dark-Scorpion-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Mining": "3"
+        }
     },
     "Menasting Terra": {
         "img": "https://i.ibb.co/Z1KZk0rY/T-Dark-Scorpion-Ground-icon-normal.png",
         "lvl": "10",
         "spawn": [
             "Sakurajima: Rocky Area"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Mining": "3"
+        }
     },
     "Mimog": {
         "img": "https://i.ibb.co/HDrL5dj3/T-Mimic-Dog-icon-normal.png",
         "lvl": "7",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Transporting": "1"
+        }
     },
     "Mossanda": {
         "img": "https://i.ibb.co/4g1G0XXT/T-Grass-Panda-icon-normal.png",
@@ -1028,7 +1649,13 @@
         "spawn": [
             "Mossanda Forest",
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Handiwork": "2",
+            "Planting": "2",
+            "Transporting": "3"
+        }
     },
     "Mossanda Lux": {
         "img": "https://i.ibb.co/fYqVMCjn/T-Grass-Panda-Electric-icon-normal.png",
@@ -1037,38 +1664,63 @@
             "Eastern Wild Island",
             "Mossanda Forest",
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Generating Electricity": "2",
+            "Handiwork": "2",
+            "Transporting": "3"
+        }
     },
     "Mozzarina": {
         "img": "https://i.ibb.co/4hkPLDz/T-Cow-Pal-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Ascetic Falls"
-        ]
+        ],
+        "skill": {
+            "Farming": "1"
+        }
     },
     "Munchill": {
         "img": "https://i.ibb.co/Wv9ShycB/T-Ice-Crocodile-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "2",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Necromus": {
         "img": "https://i.ibb.co/5hPphD6W/T-Black-Centaur-icon-normal.png",
         "lvl": "20",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Mining": "2"
+        }
     },
     "Neptilius": {
         "img": "https://i.ibb.co/nsZ7ZhS2/T-Poseidon-Orca-icon-normal.png",
         "lvl": "20",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Watering": "4"
+        }
     },
     "Nitemary": {
         "img": "https://i.ibb.co/N6pVmsGM/T-Ghost-Rabbit-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "3",
+            "Transporting": "2"
+        }
     },
     "Nitewing": {
         "img": "https://i.ibb.co/ZpCgvKVx/T-Hawk-Bird-icon-normal.png",
@@ -1081,7 +1733,10 @@
             "Forgotten Island",
             "Ice Wind Island",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Nox": {
         "img": "https://i.ibb.co/5g17CnMN/T-Night-Fox-icon-normal.png",
@@ -1093,38 +1748,64 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Nyafia ": {
         "img": "https://i.ibb.co/zhYyrBzn/T-Bad-Catgirl-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "2",
+            "Handiwork": "3",
+            "Transporting": "2"
+        }
     },
     "Omascul": {
         "img": "https://i.ibb.co/mVvZ323k/T-Mystery-Mask-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Orserk": {
         "img": "https://i.ibb.co/B5f3Mjtr/T-Thunder-Dragon-Man-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "4",
+            "Handiwork": "2",
+            "Transporting": "3"
+        }
     },
     "Paladius": {
         "img": "https://i.ibb.co/zVCdvcrV/T-Saint-Centaur-icon-normal.png",
         "lvl": "20",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Mining": "2"
+        }
     },
     "Palumba": {
         "img": "https://i.ibb.co/qYQBCcvM/T-Tropical-Ostrich-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "2",
+            "Mining": "3",
+            "Planting": "2"
+        }
     },
     "Pengullet": {
         "img": "https://i.ibb.co/zTpRN40B/T-Penguin-icon-normal.png",
@@ -1137,107 +1818,193 @@
             "Forgotten Island",
             "Ice Wind Island",
             "No Man's Trail"
-        ]
+        ],
+        "skill": {
+            "Cooling": "1",
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Pengullet Lux": {
         "img": "https://i.ibb.co/9mbw6BtD/T-Penguin-Electric-icon-normal.png",
         "lvl": "2",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Generating Electricity": "2",
+            "Handiwork": "1",
+            "Transporting": "1",
+            "Watering": "1"
+        }
     },
     "Penking": {
         "img": "https://i.ibb.co/h3MtYsF/T-Captain-Penguin-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Handiwork": "2",
+            "Mining": "2",
+            "Transporting": "2",
+            "Watering": "2"
+        }
     },
     "Penking Lux": {
         "img": "https://i.ibb.co/9mVYVTqD/T-Captain-Penguin-Black-icon-normal.png",
         "lvl": "7",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Generating Electricity": "2",
+            "Handiwork": "2",
+            "Mining": "2",
+            "Transporting": "2",
+            "Watering": "2"
+        }
     },
     "Petallia": {
         "img": "https://i.ibb.co/NDz2wCF/T-Flower-Doll-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Planting": "3",
+            "Transporting": "1"
+        }
     },
     "Polapup": {
         "img": "https://i.ibb.co/Pkhr4N1/T-Ice-Seal-icon-normal.png",
         "lvl": "5",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "3",
+            "Watering": "2"
+        }
     },
     "Prixter": {
         "img": "https://i.ibb.co/9H1y50Hj/T-Scorpion-Man-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sakurajima: Rocky Area"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "3",
+            "Medicine Production": "1"
+        }
     },
     "Prunelia": {
         "img": "https://i.ibb.co/tTNhXF9h/T-Blueberry-Fairy-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "1",
+            "Medicine Production": "3",
+            "Planting": "3",
+            "Transporting": "1"
+        }
     },
     "Purple Slime": {
         "img": "",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Pyrin": {
         "img": "https://i.ibb.co/JWt37tCd/T-Fire-Kirin-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1",
+            "Kindling": "2"
+        }
     },
     "Pyrin Noct": {
         "img": "https://i.ibb.co/5VjTwGT/T-Fire-Kirin-Dark-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1",
+            "Kindling": "2"
+        }
     },
     "Quivern": {
         "img": "https://i.ibb.co/PvVsQ56r/T-Sky-Dragon-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "1",
+            "Mining": "2",
+            "Transporting": "3"
+        }
     },
     "Quivern Botan": {
         "img": "https://i.ibb.co/mC9N01d6/T-Sky-Dragon-Grass-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "1",
+            "Mining": "2",
+            "Planting": "2",
+            "Transporting": "3"
+        }
     },
     "Ragnahawk": {
         "img": "https://i.ibb.co/4wj9VMxY/T-Red-Armor-Bird-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "3",
+            "Transporting": "3"
+        }
     },
     "Rainbow Slime": {
         "img": "",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Rayhound": {
         "img": "https://i.ibb.co/gLjcMY1m/T-Thunder-Dog-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "2"
+        }
     },
     "Red Slime": {
         "img": "",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Transporting": "1"
+        }
     },
     "Reindrix": {
         "img": "https://i.ibb.co/HfDsRGpb/T-Ice-Deer-icon-normal.png",
@@ -1245,35 +2012,55 @@
         "spawn": [
             "Frostbound Mountains",
             "No Man's Trail"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Deforesting": "2"
+        }
     },
     "Relaxaurus": {
         "img": "https://i.ibb.co/K37XJBx/T-Lazy-Dragon-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Ascetic Falls"
-        ]
+        ],
+        "skill": {
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Relaxaurus Lux": {
         "img": "https://i.ibb.co/60wnQxrn/T-Lazy-Dragon-Electric-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Within the Sealed Realm of the Thunder Dragon"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "3",
+            "Transporting": "1"
+        }
     },
     "Reptyro": {
         "img": "https://i.ibb.co/9Hrq4yHt/T-Volcanic-Monster-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Mount Obsidian"
-        ]
+        ],
+        "skill": {
+            "Kindling": "3",
+            "Mining": "3"
+        }
     },
     "Reptyro Cryst": {
         "img": "https://i.ibb.co/KxD7yvS5/T-Volcanic-Monster-Ice-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Cooling": "3",
+            "Mining": "3"
+        }
     },
     "Ribbuny": {
         "img": "https://i.ibb.co/5gt6LVWy/T-Pink-Rabbit-icon-normal.png",
@@ -1283,28 +2070,54 @@
             "Eastern Wild Island",
             "Ascetic Falls",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Ribbuny Botan": {
         "img": "https://i.ibb.co/cXFjDBnB/T-Pink-Rabbit-Grass-icon-normal.png",
         "lvl": "1",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Handiwork": "1",
+            "Planting": "1",
+            "Transporting": "1"
+        }
     },
     "Robinquill": {
         "img": "https://i.ibb.co/HD0HDsg3/T-Robin-Hood-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Mount Flopie"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "1",
+            "Handiwork": "2",
+            "Medicine Production": "1",
+            "Planting": "1",
+            "Transporting": "2"
+        }
     },
     "Robinquill Terra": {
         "img": "https://i.ibb.co/whSRxR28/T-Robin-Hood-Ground-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "1",
+            "Handiwork": "2",
+            "Medicine Production": "1",
+            "Transporting": "2"
+        }
     },
     "Rooby": {
         "img": "https://i.ibb.co/DD5fMyZ2/T-Flame-Bambi-icon-normal.png",
@@ -1314,7 +2127,10 @@
             "Marsh Island",
             "Frostbound Mountains",
             "Forgotten Island"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1"
+        }
     },
     "Rushoar": {
         "img": "https://i.ibb.co/8gjt3BX2/T-Boar-icon-normal.png",
@@ -1326,63 +2142,104 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Mining": "1"
+        }
     },
     "Selyne": {
         "img": "https://i.ibb.co/b9GzBSB/T-Moon-Queen-icon-normal.png",
         "lvl": "9",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Handiwork": "4",
+            "Medicine Production": "3",
+            "Transporting": "3"
+        }
     },
     "Shadowbeak": {
         "img": "https://i.ibb.co/ynWx84xF/T-Black-Griffon-icon-normal.png",
         "lvl": "10",
         "spawn": [
             "No. 3 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Shroomer": {
         "img": "https://i.ibb.co/WrTbm9S/T-Mushroom-Dragon-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Sakurajima: Mushroom Wetland"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "2",
+            "Handiwork": "1",
+            "Planting": "2"
+        }
     },
     "Shroomer Noct": {
         "img": "https://i.ibb.co/Jj49LNps/T-Mushroom-Dragon-Dark-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sakurajima: Mushroom Wetland"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Deforesting": "2",
+            "Handiwork": "1",
+            "Planting": "2"
+        }
     },
     "Sibelyx": {
         "img": "https://i.ibb.co/DHHj3NgZ/T-White-Moth-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Farming": "1",
+            "Medicine Production": "2"
+        }
     },
     "Silvegis": {
         "img": "https://i.ibb.co/8nr0kwpG/T-White-Shield-Dragon-icon-normal.png",
         "lvl": "8",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Deforesting": "3"
+        }
     },
     "Smokie": {
         "img": "https://i.ibb.co/Y7XZBdYd/T-Black-Puppy-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Sootseer": {
         "img": "https://i.ibb.co/skxyFzc/T-Candle-Ghost-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Sakurajima: Cemetery"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Kindling": "3",
+            "Handiwork": "2",
+            "Mining": "2",
+            "Farming": "1"
+        }
     },
     "Sparkit": {
         "img": "https://i.ibb.co/zT1nTswQ/T-Elec-Cat-icon-normal.png",
@@ -1390,21 +2247,35 @@
         "spawn": [
             "Windswept Hills",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Generating Electricity": "1",
+            "Handiwork": "1",
+            "Transporting": "1"
+        }
     },
     "Splatterina": {
         "img": "https://i.ibb.co/WWpRcYN2/T-Grim-Girl-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1",
+            "Handiwork": "4",
+            "Medicine Production": "3",
+            "Transporting": "2"
+        }
     },
     "Starryon": {
         "img": "https://i.ibb.co/rKBSwdfY/T-Night-Blue-Horse-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     },
     "Surfent": {
         "img": "https://i.ibb.co/JjBjCv5c/T-Serpent-icon-normal.png",
@@ -1412,28 +2283,40 @@
         "spawn": [
             "Ascetic Falls",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Watering": "2"
+        }
     },
     "Surfent Terra": {
         "img": "https://i.ibb.co/4w48rK2w/T-Serpent-Ground-icon-normal.png",
         "lvl": "5",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Suzaku": {
         "img": "https://i.ibb.co/1GhvzFVz/T-Suzaku-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Kindling": "3"
+        }
     },
     "Suzaku Aqua": {
         "img": "https://i.ibb.co/C3Zb6VZV/T-Suzaku-Water-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Breeding"
-        ]
+        ],
+        "skill": {
+            "Watering": "3"
+        }
     },
     "Swee": {
         "img": "https://i.ibb.co/MkxCbkKf/T-Mop-Baby-icon-normal.png",
@@ -1441,7 +2324,11 @@
         "spawn": [
             "Sea Breeze Archipelago",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Cooling": "1"
+        }
     },
     "Sweepa": {
         "img": "https://i.ibb.co/35s41TJ4/T-Mop-King-icon-normal.png",
@@ -1449,7 +2336,11 @@
         "spawn": [
             "Frostbound Mountains",
             "Investigator's Fork"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Cooling": "2"
+        }
     },
     "Tanzee": {
         "img": "https://i.ibb.co/H5WH5tC/T-Monkey-icon-normal.png",
@@ -1459,14 +2350,27 @@
             "See Breeze Archipelago",
             "Eastern Wild Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Deforesting": "1",
+            "Handiwork": "1",
+            "Planting": "1",
+            "Transporting": "1"
+        }
     },
     "Tarantriss": {
         "img": "https://i.ibb.co/nMjYCFyK/T-Purple-Spider-icon-normal.png",
         "lvl": "3",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "2",
+            "Medicine Production": "2",
+            "Transporting": "2"
+        }
     },
     "Teafant": {
         "img": "https://i.ibb.co/C3Hyx5yB/T-Ganesha-icon-normal.png",
@@ -1477,7 +2381,10 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Watering": "1"
+        }
     },
     "Tocotoco": {
         "img": "https://i.ibb.co/PvXwf745/T-Colorful-Bird-icon-normal.png",
@@ -1485,7 +2392,10 @@
         "spawn": [
             "Investigator's Fork",
             "Sand Dunes"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Tombat": {
         "img": "https://i.ibb.co/TDC9cHD3/T-Cat-Bat-icon-normal.png",
@@ -1497,31 +2407,57 @@
             "Eastern Wild Island",
             "Forgotten Island",
             "Ice Wind Island"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Mining": "2",
+            "Transporting": "2"
+        }
     },
     "Turtacle": {
         "img": "https://i.ibb.co/kVktzWV8/T-Tentacle-Turtle-icon-normal.png",
         "lvl": "3",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Mining": "1",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Turtacle Terra": {
         "img": "https://i.ibb.co/n8CWVXRr/T-Tentacle-Turtle-Ground-icon-normal.png",
         "lvl": "4",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Mining": "1",
+            "Transporting": "1",
+            "Watering": "2"
+        }
     },
     "Univolt": {
         "img": "https://i.ibb.co/L2rmFyM/T-Kirin-icon-normal.png",
         "lvl": "5",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Deforesting": "1",
+            "Generating Electricity": "2"
+        }
     },
     "Vaelet": {
         "img": "https://i.ibb.co/C3wxhfcW/T-Violet-Fairy-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 1 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2",
+            "Handiwork": "2",
+            "Medicine Production": "3",
+            "Planting": "2",
+            "Transporting": "1"
+        }
     },
     "Vanwyrm": {
         "img": "https://i.ibb.co/kgWdZNR3/T-Bird-Dragon-icon-normal.png",
@@ -1529,7 +2465,11 @@
         "spawn": [
             "Mount Obsidian",
             "Ascetic Falls"
-        ]
+        ],
+        "skill": {
+            "Kindling": "1",
+            "Transporting": "3"
+        }
     },
     "Vanwyrm Cryst": {
         "img": "https://i.ibb.co/Myvy80QN/T-Bird-Dragon-Ice-icon-normal.png",
@@ -1537,103 +2477,175 @@
         "spawn": [
             "No Man's Trail",
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Transporting": "3"
+        }
     },
     "Verdash": {
         "img": "https://i.ibb.co/twfVVXTw/T-Grass-Rabbit-Man-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Gathering": "3",
+            "Deforesting": "2",
+            "Handiwork": "3",
+            "Planting": "2",
+            "Transporting": "2"
+        }
     },
     "Vixy": {
         "img": "https://i.ibb.co/W4RKjMLR/T-Cute-Fox-icon-normal.png",
         "lvl": "2",
         "spawn": [
             "Windswept Hills"
-        ]
+        ],
+        "skill": {
+            "Gathering": "1",
+            "Farming": "1"
+        }
     },
     "Warsect ": {
         "img": "https://i.ibb.co/Z605pJQG/T-Hercules-Beetle-icon-normal.png",
         "lvl": "8",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Deforesting": "3",
+            "Handiwork": "1",
+            "Planting": "1",
+            "Transporting": "3"
+        }
     },
     "Warsect Terra": {
         "img": "https://i.ibb.co/prypNnmQ/T-Hercules-Beetle-Ground-icon-normal.png",
         "lvl": "9",
         "spawn": [
             "Feybreak"
-        ]
+        ],
+        "skill": {
+            "Handiwork": "1",
+            "Mining": "3",
+            "Transporting": "3"
+        }
     },
     "Whalaska": {
         "img": "https://i.ibb.co/nMJ0fQhX/T-Ice-Narwhal-icon-normal.png",
         "lvl": "7",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "4",
+            "Watering": "3"
+        }
     },
     "Whalaska Ignis": {
         "img": "https://i.ibb.co/6Rqpp5LM/T-Ice-Narwhal-Fire-icon-normal.png",
         "lvl": "8",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Cooling": "4",
+            "Kindling": "3"
+        }
     },
     "Wixen": {
         "img": "https://i.ibb.co/Q32Dn9fv/T-Fox-Mage-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Frostbound Mountains"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2",
+            "Handiwork": "3",
+            "Transporting": "2"
+        }
     },
     "Wixen Noct": {
         "img": "https://i.ibb.co/HfpfjypC/T-Fox-Mage-Dark-icon-normal.png",
         "lvl": "6",
         "spawn": [
             "Sakurajima: Rocky and Desert Area"
-        ]
+        ],
+        "skill": {
+            "Kindling": "2",
+            "Handiwork": "3",
+            "Transporting": "2"
+        }
     },
     "Woolipop": {
         "img": "https://i.ibb.co/Jj3W63JF/T-Sweets-Sheep-icon-normal.png",
         "lvl": "3",
         "spawn": [
             "Ascetic Falls"
-        ]
+        ],
+        "skill": {
+            "Farming": "1"
+        }
     },
     "Wumpo": {
         "img": "https://i.ibb.co/mrw0bQmJ/T-Yeti-icon-normal.png",
         "lvl": "7",
         "spawn": [
             "Land of Absolute Zero"
-        ]
+        ],
+        "skill": {
+            "Cooling": "2",
+            "Deforesting": "3",
+            "Handiwork": "2",
+            "Transporting": "4"
+        }
     },
     "Wumpo Botan": {
         "img": "https://i.ibb.co/M5JTR1nN/T-Yeti-Grass-icon-normal.png",
         "lvl": "8",
         "spawn": [
             "No. 2 Wildlife Sanctuary"
-        ]
+        ],
+        "skill": {
+            "Deforesting": "3",
+            "Handiwork": "2",
+            "Planting": "1",
+            "Transporting": "4"
+        }
     },
     "Xenogard": {
         "img": "https://i.ibb.co/vxyGD9Xw/T-White-Alien-Dragon-icon-normal.png",
         "lvl": "9",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Mining": "3"
+        }
     },
     "Xenolord ": {
         "img": "https://i.ibb.co/r2pB5T4y/T-Dark-Mecha-Dragon-icon-normal.png",
         "lvl": "8",
-        "spawn": ""
+        "spawn": "",
+        "skill": {
+            "Gathering": "1"
+        }
     },
     "Xenovader": {
         "img": "https://i.ibb.co/nNngMfbc/T-Dark-Alien-icon-normal.png",
         "lvl": "7",
         "spawn": [
             ""
-        ]
+        ],
+        "skill": {
+            "Deforesting": "2",
+            "Transporting": "2"
+        }
     },
     "Yakumo": {
         "img": "https://i.ibb.co/HDW4xcR5/T-Guardian-Dog-icon-normal.png",
         "lvl": "4",
         "spawn": [
             "Sakurajima: Cherry Blossom Forest"
-        ]
+        ],
+        "skill": {
+            "Gathering": "2"
+        }
     }
 }
