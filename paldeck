@@ -505,11 +505,6 @@
             "Transporting": "1"
         }
     },
-    "Demon Eye": {
-        "skill": {
-            "Transporting": "1"
-        }
-    },
     "Depresso": {
         "img": "https://i.ibb.co/whmhT2r2/T-Negative-Koala-icon-normal.png",
         "lvl": "1",
@@ -676,11 +671,6 @@
         "skill": {
             "Deforesting": "2",
             "Watering": "3"
-        }
-    },
-    "Enchanted Sword": {
-        "skill": {
-            "Deforesting": "1"
         }
     },
     "Eye of Cthulhu": {
