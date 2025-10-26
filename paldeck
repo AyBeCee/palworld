@@ -45,7 +45,7 @@
   },
   "Azurmane": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/Cs0NV9yW/T-Blue-Thunder-Horse-icon-normal.png",
     "lvl": "7",
@@ -100,7 +100,7 @@
   },
   "Beakon": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/9HVdxgDz/T-Thunder-Bird-icon-normal.png",
     "lvl": "6",
@@ -414,7 +414,7 @@
   "Celaray Lux": {
     "element": [
       "water",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/k6qmvh0N/T-Flying-Manta-Thunder-icon-normal.png",
     "lvl": "4",
@@ -614,7 +614,7 @@
   },
   "Dazzi": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/ZpWs7L9S/T-Raijin-Daughter-icon-normal.png",
     "lvl": "2",
@@ -630,7 +630,7 @@
   "Dazzi Noct": {
     "element": [
       "dark",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/k2rtG04P/T-Raijin-Daughter-Water-icon-normal.png",
     "lvl": "2",
@@ -643,11 +643,6 @@
       "Medicine Production": "1",
       "Transporting": "1"
     }
-  },
-  "Demon Eye": {
-    "element": [
-      "dark"
-    ]
   },
   "Depresso": {
     "element": [
@@ -703,7 +698,7 @@
   },
   "Dinossom Lux": {
     "element": [
-      "electrivity",
+      "electricity",
       "dragon"
     ],
     "img": "https://i.ibb.co/yBZwp2tY/T-Flower-Dinosaur-Electric-icon-normal.png",
@@ -934,7 +929,7 @@
   },
   "Fenglope Lux": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "",
     "lvl": "3",
@@ -1283,7 +1278,7 @@
   },
   "Grizzbolt": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/xq8SHVQb/T-Elec-Panda-icon-normal.png",
     "lvl": "8",
@@ -1366,7 +1361,7 @@
   "Helzephyr Lux": {
     "element": [
       "dark",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/vvHdynR4/T-Hades-Bird-Electric-icon-normal.png",
     "lvl": "8",
@@ -1511,7 +1506,7 @@
   },
   "Jolthog": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/LdGWjGvf/T-Hedgehog-icon-normal.png",
     "lvl": "1",
@@ -2082,7 +2077,7 @@
   },
   "Mossanda Lux": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/fYqVMCjn/T-Grass-Panda-Electric-icon-normal.png",
     "lvl": "7",
@@ -2231,7 +2226,7 @@
   "Orserk": {
     "element": [
       "dragon",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/B5f3Mjtr/T-Thunder-Dragon-Man-icon-normal.png",
     "lvl": "9",
@@ -2297,7 +2292,7 @@
   "Pengullet Lux": {
     "element": [
       "water",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/9mbw6BtD/T-Penguin-Electric-icon-normal.png",
     "lvl": "2",
@@ -2330,7 +2325,7 @@
   "Penking Lux": {
     "element": [
       "water",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/9mVYVTqD/T-Captain-Penguin-Black-icon-normal.png",
     "lvl": "7",
@@ -2486,7 +2481,7 @@
   },
   "Rayhound": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/gLjcMY1m/T-Thunder-Dog-icon-normal.png",
     "lvl": "5",
@@ -2530,7 +2525,7 @@
   "Relaxaurus Lux": {
     "element": [
       "dragon",
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/60wnQxrn/T-Lazy-Dragon-Electric-icon-normal.png",
     "lvl": "9",
@@ -2799,7 +2794,7 @@
   },
   "Sparkit": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/zT1nTswQ/T-Elec-Cat-icon-normal.png",
     "lvl": "1",
@@ -3041,7 +3036,7 @@
   },
   "Univolt": {
     "element": [
-      "electrivity"
+      "electricity"
     ],
     "img": "https://i.ibb.co/L2rmFyM/T-Kirin-icon-normal.png",
     "lvl": "5",
